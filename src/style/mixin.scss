@@ -1,0 +1,16 @@
+@mixin center {
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+}
+@mixin hvCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@mixin vCenter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

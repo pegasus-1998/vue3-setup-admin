@@ -1,0 +1,41 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+html, body, p, h1, h2, h3, h4, h5, h6, ul, ol, dl, li, dt, dd {
+    margin: 0;
+    padding: 0;
+}
+html {
+    min-height: 100%;
+}
+body {
+    min-height: 100%;
+    color: #666;
+    overflow: hidden;
+    min-width: 1300px;
+    margin: 0 auto;
+}
+ol,
+ul {
+    list-style: none;
+}
+img {
+    vertical-align: middle;
+}
+.base-w {
+    width: 1250px;
+    margin: 0 auto;  
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+.clear-float::after {
+    display: block;
+    content: '';
+    clear: both;
+}
