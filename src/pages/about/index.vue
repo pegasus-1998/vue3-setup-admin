@@ -1,7 +1,7 @@
  <template>
   <h3>
     个人收藏网址：
-    <a href="http://pegasus.3vdo.net/pegasusStudy">http://pegasus.3vdo.net/pegasusStudy</a>
+    <a href="http://pgs98.com">http://pgs98.com</a>
      <img src="@/images/welcome.gif" alt="">
   </h3>
  
