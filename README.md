@@ -27,7 +27,7 @@ npm run serve  (运行)
 
 ## Document
 
-- [前端知识收集地址](http://pgs98.com)
+- [天马导航-前端知识收集地址](http://pgs98.com)
 - [github地址](https://github.com/pegasus-1998)
 
 ## License
