@@ -32,4 +32,4 @@ npm run serve  (运行)
 
 ## License
 
-[MIT](https://github.com/pegasus-1998/vue3-setup/blob/main/LICENSE)
+[MIT](https://github.com/pegasus-1998/vue3-setup/blob/master/LICENSE)
