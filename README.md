@@ -19,6 +19,12 @@ vue3(setup)
 
 vue3 + element-plus(组件库) + axios(http库) + vuex-persistedstate(vuex持久化)
 
+## vscode + Volar
+
+大多数vue开发者在vscode中的vue插件为Vetur，而Vetur对Vue3或者Ts会导致编辑器爆红，影响开发体验。
+vscode中安装：Vue Language Features (Volar)
+:blush:注意：使用Volar之前先禁用Vetur避免冲突，然后重启电脑。
+
 ## 步骤
 
 npm install  (安装依赖)
