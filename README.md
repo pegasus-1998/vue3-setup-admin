@@ -19,7 +19,7 @@ vue3(setup)
 
 vue3 + element-plus(组件库) + axios(http库) + vuex-persistedstate(vuex持久化)
 
-## vscode + Volar
+## VScode + Volar
 
 大多数vue开发者在vscode中的vue插件为Vetur，而Vetur对Vue3或者Ts会导致编辑器爆红，影响开发体验。
 
