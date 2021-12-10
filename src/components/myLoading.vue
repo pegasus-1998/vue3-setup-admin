@@ -1,6 +1,6 @@
 <!--  -->
 <template>
-    <img class="loading" src="@/images/loading.png" alt />
+    <img class="loading" src="@/images/loading.png" />
 </template>
 
 <style lang='scss' scoped>
