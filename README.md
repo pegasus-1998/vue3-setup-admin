@@ -27,7 +27,7 @@ vscode中安装：Vue Language Features (Volar)
 
 :blush:注意：使用Volar之前先禁用Vetur避免冲突，然后重启电脑(必须重启电脑后才可以)。
 
-[setup文档](https://v3.cn.vuejs.org/api/sfc-spec.html#script-setup)
+[vue-setup文档](https://v3.cn.vuejs.org/api/sfc-spec.html#script-setup)
 
 ## 步骤
 
